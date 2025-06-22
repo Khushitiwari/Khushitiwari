@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Khushi Tiwari
+# 💫 Hi 👋  , I'm Khushi Tiwari
 A passionate Web developer || DSA learner 
 
 Email Me 👉 ✉️ khushitiwari1237@gmail.com For Collaboration/Project or Anything Else. 😊
