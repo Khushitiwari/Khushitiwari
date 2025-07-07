@@ -4,7 +4,7 @@ A passionate Web developer || DSA learner
 Email Me 👉 ✉️ khushitiwari1237@gmail.com For Collaboration/Project or Anything Else. 😊
 
 # 💫 About Me:
-👩‍💻 Computer Science Student | Full-Stack Web Development Learner | JAVA DSA💡 Passionate about tech & always eager to learn new skills
+👩‍💻 Computer Science Student | Full-Stack Developer in Progress | Java DSA Enthusiast | 🌐 Diving into Web3 | 💡 Tech-lover always curious to learn and grow
 
 
 ## 🌐 Socials:
