@@ -1,10 +1,10 @@
-# 💫 Hi 👋  , I'm Khushi Tiwari
+# Hi , I'm Khooshi Tiwari
 A passionate Web developer || DSA learner 
 
-Email Me 👉 ✉️ khushitiwari1237@gmail.com For Collaboration/Project or Anything Else. 😊
+Email Me ✉️ : khushitiwari1237@gmail.com For Collaboration/Project or Anything Else. 
 
-# 💫 About Me:
-👩‍💻 Computer Science Student | Full-Stack Developer in Progress | Java DSA Enthusiast | 💡 Tech-lover always curious to learn and grow
+#  About Me:
+ Computer Science Student | Full-Stack Developer in Progress | Java DSA Enthusiast |  Tech-lover always curious to learn and grow
 
 
 ## 🌐 Socials:
